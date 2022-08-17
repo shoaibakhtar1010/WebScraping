@@ -43,3 +43,13 @@ information was recorded
 (a) You can use datetime.datetime.now() to get the current date and time
 (b) You can use the .timestamp() on a datetime object to get the epoch timestamp
 (e.g.datetime.datetime.now() gives the current datetime’s epoch time)
+
+
+## Dynamic webscrapping
+1. Extracting data using selenium
+
+2. Extracting hyperlink value
+
+3. Dealing with website loading time
+
+4. Headless driver
