@@ -61,3 +61,14 @@ information was recorded
 2. Adding text into a form
 
 3. pressing buttons and navigating on site pop-ups
+
+
+## coding exercise 1
+
+The website http://webscraper.io/test-sites/tables has test tables that you can use to try some scraping techniques. Try to reduce the website so that you can extract all the #'s, First Names, Last Names, and Usernames and put them into a neat format (such as a pandas DataFrame). You can also run everything in your local coding environment. The solution is written in Python 3.5. Note, the web coder here may be missing some modules.
+
+
+## coding exercise 2
+
+### Scraping a website that uses AJAX to generate content
+Try to get the names that pop up under the HTML labeled section (http://testing-ground.scraping.pro/ajax, website URL provided in starting file), they are loaded with AJAX, so you can't just get them from the static HTML (although you're encouraged to try it with requests first and see what comes out).
