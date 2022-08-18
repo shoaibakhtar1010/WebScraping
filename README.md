@@ -53,3 +53,11 @@ information was recorded
 3. Dealing with website loading time
 
 4. Headless driver
+
+## Dynamic webscrapping 2
+
+1. continously savimng data sample solution
+
+2. Adding text into a form
+
+3. pressing buttons and navigating on site pop-ups
